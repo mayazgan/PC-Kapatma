@@ -1,0 +1,16 @@
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\bin\Debug\net8.0-windows\PC Kapatma.exe
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\bin\Debug\net8.0-windows\PC Kapatma.deps.json
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\bin\Debug\net8.0-windows\PC Kapatma.runtimeconfig.json
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\bin\Debug\net8.0-windows\PC Kapatma.dll
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\bin\Debug\net8.0-windows\PC Kapatma.pdb
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC_Kapatma.Form1.resources
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC Kapatma.csproj.GenerateResource.cache
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC Kapatma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC Kapatma.AssemblyInfoInputs.cache
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC Kapatma.AssemblyInfo.cs
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC Kapatma.csproj.CoreCompileInputs.cache
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC Kapatma.dll
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\refint\PC Kapatma.dll
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC Kapatma.pdb
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\PC Kapatma.genruntimeconfig.cache
+C:\Users\yazga\source\repos\PC Kapatma\PC Kapatma\obj\Debug\net8.0-windows\ref\PC Kapatma.dll
